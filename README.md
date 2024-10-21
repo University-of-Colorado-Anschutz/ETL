@@ -1,6 +1,6 @@
-# ETL This assignment a real-world Clincial Data Scientists' task.
+# Assignment on ETL: A real-world Clinical Data Scientists' task.
 
-Create an ETL Process to Transform a MIMIC-III Table to OMOP
+Create an ETL Process to Transform MIMIC-III tables to relevant OMOP tables.
 
 This is a real-world process of translating Clinical Data across different data models. 
 
